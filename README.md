@@ -1,6 +1,6 @@
 # GMP SOP Library
 
-**Author:** [Your Name]  
+**Author:** Theo Kerr  
 **Purpose:** Demonstration of GMP documentation skills for pharmaceutical/cannabis industry  
 **Version:** 1.0  
 **Date:** 13 October 2026
